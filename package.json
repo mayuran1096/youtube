@@ -2,10 +2,15 @@
   "name": "myfirst",
   "version": "0.1.0",
   "private": true,
+  "engines": {
+    "node": "9.3.0",
+    "npm": "5.6.0"
+  },
   "dependencies": {
     "react": "^16.8.1",
     "react-dom": "^16.8.1",
-    "react-scripts": "2.1.4"
+    "react-scripts": "2.1.4",
+    "youtube-api-search": "0.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
