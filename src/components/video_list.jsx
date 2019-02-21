@@ -1,5 +1,6 @@
 import React from "react";
 import VideoListItem from "./video_item";
+import style from "../style/style.css";
 
 const VideoList = props => {
   console.log(props.videoes);

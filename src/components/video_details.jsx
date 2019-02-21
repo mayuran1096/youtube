@@ -1,4 +1,5 @@
 import React from "react";
+import style from "../style/style.css";
 const VideoDetail = props => {
   if (!props.video) {
     return <div>LOADING............</div>;
