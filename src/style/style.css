@@ -2,7 +2,7 @@
   width: 75%;
 }
 .video-list img {
-  max-width: 64px;
+  max-width: 250px;
   background-color: gray;
 }
 .video-detail .details {
@@ -12,6 +12,9 @@
   border-radius: 4px;
   background-color: gray;
   color: white;
+}
+.home {
+  color: indianred;
 }
 .list-group-item {
   cursor: pointer;
